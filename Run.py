@@ -1,1 +1,1 @@
-import BXN_crack()
+import BXN_crack
